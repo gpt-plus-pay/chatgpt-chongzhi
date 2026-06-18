@@ -1,5 +1,7 @@
 # ChatGPT Plus / Pro 充值订阅开通教程｜国内微信支付宝代充指南
 
+> 更新时间：2026 年 06 月 19 日，测试可用
+
 > 国内用户开通 ChatGPT Plus、Pro 的完整图文教程。支持微信、支付宝付款，无需海外信用卡，保留自己账号的历史记录与工作资料。
 
 [![充值入口](https://img.shields.io/badge/ChatGPT-充值入口-10a37f?style=for-the-badge)](https://gpt.hicxy.com)
