@@ -2,7 +2,7 @@
 
 > 国内用户开通 ChatGPT Plus、Pro 的完整图文教程。支持微信、支付宝付款，无需海外信用卡，保留自己账号的历史记录与工作资料。
 
-[![充值入口]()](https://gpt.hicxy.com)
+[![充值入口](https://img.shields.io/badge/ChatGPT-充值入口-10a37f?style=for-the-badge)](https://gpt.hicxy.com)
 [![支付方式](https://img.shields.io/badge/支持-微信%20%7C%20支付宝-07c160?style=for-the-badge)](https://gpt.hicxy.com)
 [![套餐](https://img.shields.io/badge/套餐-Plus%20%7C%20Pro-blue?style=for-the-badge)](https://gpt.hicxy.com)
 
