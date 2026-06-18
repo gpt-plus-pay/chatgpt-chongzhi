@@ -66,10 +66,7 @@
 
 先打开 ChatGPT，确认已经登录要充值的账号。
 
-然后访问：
-
-https://chatgpt.com/api/auth/session  [打开链接](https://chatgpt.com/api/auth/session)
-
+然后访问： https://chatgpt.com/api/auth/session
 页面出现内容后，直接 `Ctrl + A` 全选，再 `Ctrl + C` 复制。
 
 把复制到的内容粘贴到充值页面，点击`下一步`。
